@@ -29,7 +29,7 @@ My journey in technology began in 2004 when I started creating and maintaining *
 
 ### 💼 Highlighted Projects
 
-- **[Go Banking]([#](https://github.com/alexandrezardini/go-banking)):** *Building... 🛠️ - Banking plataform using event-driven architecture, go and kafka.*
+- **[Go Banking]((https://github.com/alexandrezardini/go-banking)):** *Building... 🛠️ - Banking plataform using event-driven architecture, go and kafka.*
 
 ---
 
